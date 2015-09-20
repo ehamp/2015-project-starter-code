@@ -1,2 +1,3 @@
 # 2015-project-starter-code
-# Elizabeth Hamp 
+
+Elizabeth Hamp 
